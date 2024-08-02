@@ -72,10 +72,6 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagniklangal&show_icons=true&locale=en&layout=compact" alt="sagniklangal" />
-</p>
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagniklangal&show_icons=true&locale=en" alt="sagniklangal" />
 </p>
