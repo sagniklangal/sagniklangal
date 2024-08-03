@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Langal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 - 🌱 I’m currently learning **Node.js, React.js, MongoDB**
 
